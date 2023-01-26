@@ -16,6 +16,11 @@ What if programmers modify the same file ? No worries git can automatically merg
 #### Commands
 
 ```bash
+# clones repository from url
+# clone is similar to copying the 
+# project and its files to your computer.
+git clone URL
+
 # Pulls changes from another repository
 git pull
 

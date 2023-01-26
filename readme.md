@@ -30,3 +30,11 @@ git push
 # Commit changes
 git commit -m "Commit message"
 ```
+
+### JavaScript / TypeScript
+
+JavaScript is a programming language 
+used in web programming but also 
+in backend development.
+
+
